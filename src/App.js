@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from 'http://localhost:8001/api/v1/proxy/namespaces/default/services/kubecra-dev:80/logo.svg';
 import './App.css';
 
 class App extends Component {
